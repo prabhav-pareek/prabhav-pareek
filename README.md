@@ -1,4 +1,4 @@
-- 👋 Hi, Myself Prabahv Pareek
+- 👋 Hi, Myself Prabhav Pareek
 - 👀 I’m interested in Coding and creeating projects out of it!
 - 🌱 I’m currently learning Data Science from a ground level
 - 📫 You can connect with me on LinkedIn. My profile URL is www.linkedin.com/in/prabhavpareek
